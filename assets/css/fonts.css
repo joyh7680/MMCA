@@ -1,0 +1,42 @@
+/* eng01  */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800&display=swap');
+
+/* eng02  */
+@font-face {
+  font-family: 'Neue Machina';
+  src: url('../fonts/NeueMachina-Light.woff') format('woff');
+  font-weight: 300;
+}
+@font-face {
+  font-family: 'Neue Machina';
+  src: url('../fonts/NeueMachina-Regular.woff') format('woff');
+  font-weight: 400;
+}
+@font-face {
+  font-family: 'Neue Machina';
+  src: url('../fonts/NeueMachina-Ultrabold.woff') format('woff');
+  font-weight: 700;
+}
+
+/* kr  */
+@font-face {
+  font-family: 'Pretendard';
+  src: url('../fonts/Pretendard-ExtraLight.woff2') format('woff2');
+  font-weight: 100;
+}
+@font-face {
+  font-family: 'Pretendard';
+  src: url('../fonts/Pretendard-Regular.woff2') format('woff2');
+  font-weight: 400;
+}
+@font-face {
+  font-family: 'Pretendard';
+  src: url('../fonts/Pretendard-Regular.woff2') format('woff2');
+  font-weight: 500;
+}
+@font-face {
+  font-family: 'Pretendard';
+  src: url('../fonts/Pretendard-Bold.woff2') format('woff2');
+  font-weight: 700;
+}
+
